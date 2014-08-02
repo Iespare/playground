@@ -20,7 +20,7 @@ class Bit : Hashable {
     
     //MARK: - Bit
     init(point: CGPoint) {
-        self.point = point  // div BIT_SIZE to normalize it
+        self.point = point
     }
     
 }
